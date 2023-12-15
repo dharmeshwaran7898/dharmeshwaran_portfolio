@@ -36,10 +36,16 @@
 .right_section {
   grid-area: right_container;
   height: 100%;
+  width: 100%;
   background-color: rgb(255, 255, 255);
 }
 .dwn_aboutMe {
   font-size: calc(16px + 0.5vw);
   text-transform: capitalize;
   text-align: justify;
+}
+.dwn_myimage {
+  width: 100%;
+  object-fit:cover;
+  height: 100%;
 }

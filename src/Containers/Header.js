@@ -1,5 +1,5 @@
 import React from "react";
-
+import myimage from "../myimage.jpg"
 const Header = () => {
   return (
     <div className="dwn_Header">
@@ -17,7 +17,7 @@ const Header = () => {
         </p>
       </div>
       <div className="right_section">
-        <img src="" alt="myImage" />
+        <img src={myimage} alt="img" className="dwn_myimage"/>
       </div>
     </div>
   );
