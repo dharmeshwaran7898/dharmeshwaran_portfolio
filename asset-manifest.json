@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dharmeshwaran_portfolio/static/css/main.609ae5dd.css",
+    "main.css": "/dharmeshwaran_portfolio/static/css/main.6593332b.css",
     "main.js": "/dharmeshwaran_portfolio/static/js/main.e70e63e6.js",
     "index.html": "/dharmeshwaran_portfolio/index.html",
-    "main.609ae5dd.css.map": "/dharmeshwaran_portfolio/static/css/main.609ae5dd.css.map",
+    "main.6593332b.css.map": "/dharmeshwaran_portfolio/static/css/main.6593332b.css.map",
     "main.e70e63e6.js.map": "/dharmeshwaran_portfolio/static/js/main.e70e63e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.609ae5dd.css",
+    "static/css/main.6593332b.css",
     "static/js/main.e70e63e6.js"
   ]
 }
