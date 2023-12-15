@@ -13,7 +13,11 @@
 }
 .left_section {
   grid-area: left_contianer;
-  background-color: yellow;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 0, 1) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -23,7 +27,7 @@
   gap: 4vw;
 }
 .mySelf {
-  font-size: calc(16px + 5vw);
+  font-size: calc(16px + 3vw);
   text-align: start;
   width: 100%;
   letter-spacing: 2px;
@@ -31,7 +35,7 @@
 .right_section {
   grid-area: right_container;
   height: 100%;
-  background-color: yellowgreen;
+  background-color: rgb(255, 255, 255);
 }
 .dwn_aboutMe {
   font-size: calc(16px + 0.5vw);
