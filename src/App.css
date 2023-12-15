@@ -23,7 +23,7 @@
   gap: 4vw;
 }
 .mySelf {
-  font-size: calc(16px + 6vw);
+  font-size: calc(16px + 5vw);
   text-align: start;
   width: 100%;
   letter-spacing: 2px;
