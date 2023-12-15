@@ -1,0 +1,9 @@
+@media (max-width: 600px) {
+  .dwn_Header {
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: auto;
+    grid-template-areas:
+      "left_contianer "
+      "right_container";
+  }
+}
