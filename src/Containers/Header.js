@@ -6,7 +6,7 @@ const Header = () => {
       <div className="left_section">
         <h1 className="mySelf">
           Hi! <br /> MySelf <br />
-          xyz xyz
+          Dharmeshwaran nadar
         </h1>
         <p className="dwn_aboutMe">
           i am front-end developer with 2+ years of experience who is
